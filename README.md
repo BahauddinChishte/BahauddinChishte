@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+I am Bahauddin Chishte. I am a junior prompt and software engineer with knowledge of product, marketing, and design. I'm also working to <b>Empower Bengali in Technology/<b>
 
-**BahauddinChishte/BahauddinChishte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### Things You Should Know About Me: 
 
 - 🔭 I’m currently working on building @WeekGeeks and @BengaliWhoCode
 - 🌱 I’m currently learning Prompt Engineering and Software Engineering
