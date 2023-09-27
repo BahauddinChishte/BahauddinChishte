@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am Bahauddin Chishte. I am a junior prompt and software engineer with knowledge of product, marketing, and design. I'm also working to <b>Empower Bengali in Technology/<b>
+I am Bahauddin Chishte. I am a junior prompt and software engineer with knowledge of product, marketing, and design. I'm also working to <b>Empower Bengali in Technology<b>
 
 #### Things You Should Know About Me: 
 
@@ -11,7 +11,6 @@ I am Bahauddin Chishte. I am a junior prompt and software engineer with knowledg
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Prompt Engineering, Python, Javascript, and C.
 - 📫 How to reach me: 
-- 😄 Pronouns: 
 - ⚡ Fun fact: I want to become a national tennis player for Bangladesh!
  
 <!--
