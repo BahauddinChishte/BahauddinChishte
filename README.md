@@ -1,3 +1,4 @@
+<! --
 ### Hi there 👋
 
 I am Bahauddin Chishte. I am a junior prompt and software engineer with knowledge of product, marketing, and design. I'm also working to <b>Empower Bengali in Technology/<b>
@@ -12,8 +13,8 @@ I am Bahauddin Chishte. I am a junior prompt and software engineer with knowledg
 - 📫 How to reach me: 
 - 😄 Pronouns: 
 - ⚡ Fun fact: I want to become a national tennis player for Bangladesh!
-
-
+--> 
+ 
 <h1 align="center">Hi 👋, I'm Bahaudin Chishte</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
