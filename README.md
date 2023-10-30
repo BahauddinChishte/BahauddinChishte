@@ -1,4 +1,3 @@
-[![An image of @bahauddinchishte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bahauddinchishte)](https://holopin.io/@bahauddinchishte)
 
 ### Hi there 👋
 
@@ -33,3 +32,4 @@ I am Bahauddin Chishte. I am a junior prompt and software engineer with knowledg
 
 --> 
 
+[![An image of @bahauddinchishte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bahauddinchishte)](https://holopin.io/@bahauddinchishte)
